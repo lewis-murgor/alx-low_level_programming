@@ -2,7 +2,7 @@
 /**
  * Main - Entry point
  * Uses puts function to write a string
- * /
+ */
  
 int main(void)
 {
