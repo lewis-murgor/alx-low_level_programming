@@ -9,7 +9,7 @@ int numbers;
 int nums;
 for (numbers = '0'; numbers < '9'; numbers++)
 {
-for (nums = '0'; nums < '9'; nums++)
+for (nums = '0'; nums <= '9'; nums++)
 {
 if (numbers == '0' && nums < '1')
 continue;
