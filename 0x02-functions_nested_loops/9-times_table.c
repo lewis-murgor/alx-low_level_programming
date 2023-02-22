@@ -25,7 +25,7 @@ _putchar((d % 10) + '0');
 if (col < 9)
 {
 _putchar(',');
-putchar(' ');
+_putchar(' ');
 }
 }
 _putchar('\n');
